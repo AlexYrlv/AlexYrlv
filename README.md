@@ -21,7 +21,6 @@ As a developer from Russia, I specialize in backend. I love solving problems, an
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=django)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
@@ -36,15 +35,8 @@ As a developer from Russia, I specialize in backend. I love solving problems, an
 
 ## Featured Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourrepo1)](https://github.com/AlexYrlv/media-finder)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexYrlv&repo=media-finder)](https://github.com/AlexYrlv/media-finder)
 
-## Skills
-
-- **Programming Languages:** Python
-- **Web Development:** Django, Fastapi
-- **Databases:** PostgreSQL, Redis
-- **Tools and Technologies:** Docker
-- **Automation and Scripting:** Celery
 
 ## Work Experience
 
