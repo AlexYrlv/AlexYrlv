@@ -31,7 +31,7 @@ As a developer from Russia, I specialize in backend. I love solving problems, an
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?&logo=github)](https://github.com/AlexYrlv)
 [![Telegram](https://img.shields.io/badge/Telegram-000?&logo=telegram)](https://t.me/JohnSliver)
-[![Mail](https://img.shields.io/badge/Gmail-000?&logo=gmail)](mailto:sasha.yur@mail.ru)
+[![Mail](https://img.shields.io/badge/Mail-000?&logo=mail)](mailto:sasha.yur@mail.ru)
 
 ## Featured Projects
 
