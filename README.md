@@ -12,45 +12,62 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-# Юрлов Александр
 
-**Контактная информация:**
-- **Email:** sasha.yur@mail.ru
-- **Телефон:** +7 904 493 8877
-- **GitHub:** [github.com/AlexYrlv](https://github.com/AlexYrlv)
+# Hello, World! I'm Yurlov Aleksandr 🌍
 
-## Обо мне
+As a developer from Russia, I specialize in backend. I love solving problems, and learning new things every day. 
 
-Самоучка-программист с двухлетним опытом обучения с Python и Django. Обладаю  навыками в разработке веб-приложений, решении проблем и аналитическом мышлении.
-  Активно изучаю новые технологии и постоянно совершенствую свои навыки через работу над проектами.
+## Technologies & Tools
 
-## Навыки
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![Django](https://img.shields.io/badge/-Django-000?&logo=django)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=redis)
 
-- **Языки программирования:** Python
-- **Веб-разработка:** Django, Flask
-- **Базы данных:** SQLite, PostgreSQL
-- **Инструменты и технологии:** Git, Docker
-- **Автоматизация и скрипты** Celery
 
-## Опыт работы
+## Get in Touch
 
-- Разработка веб-приложений с использованием Django и Flask для бизнеса.
-- Создание и поддержка RESTful API.
-- Работа с базами данных: проектирование, создание и оптимизация запросов.
-- Разработка алгоритмов для торговли криптовалютой
+[![GitHub](https://img.shields.io/badge/GitHub-000?&logo=github)](https://github.com/AlexYrlv)
+[![Telegram](https://img.shields.io/badge/Telegram-000?&logo=telegram)](https://t.me/JohnSliver)
+[![Mail](https://img.shields.io/badge/Gmail-000?&logo=gmail)](mailto:sasha.yur@mail.ru)
 
-## Образование
+## Featured Projects
 
-- Итмо: Нейротехнологии и программирование (2022 - 2026)
-- Самостоятельное обучение Python и Django через онлайн-курсы и ресурсы (Udemy, Coursera, YouTube, официальная документация Python и Django и др.)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourrepo1)](https://github.com/AlexYrlv/media-finder)
 
-## Проекты
+## Skills
 
-**1. Веб-приложение для управления задачами**  
-_Описание:_ Разработал внутренню платформу для агенства недвижимости. Приложение позволяет пользователям создавать, редактировать и удалять задачи, а также назначать приоритеты и сроки выполнения.  
-_Технологии:_ DRF, PostgreSQL, Docker, Celery
+- **Programming Languages:** Python
+- **Web Development:** Django, Fastapi
+- **Databases:** PostgreSQL, Redis
+- **Tools and Technologies:** Docker
+- **Automation and Scripting:** Celery
 
-## Дополнительная информация
+## Work Experience
 
-- Участвую в хакатонах и конкурсах программирования.
+- Developed web applications using Django and Flask for business market.
+- Created RESTful APIs.
+- Worked with databases: designing, creating queries.
+- Developed algorithms for cryptocurrency trading.
+
+## Education
+
+- ITMO University: Neurotechnology and Programming (2022 - 2026)
+
+## Projects
+
+**1. Market Platform**  
+_Description:_ Creating a complete e-commerce platform where users can browse products, add items to their shopping cart, and make purchases.  
+_Technologies:_ DRF, Fastapi, PostgreSQL, Docker, React
+
+**3. Cryptocurrency Trading Bot**  
+_Description:_ Developed a bot that automates cryptocurrency trading using predefined strategies. The bot analyzes market data and executes trades based on the algorithms.  
+_Technologies:_ Python, Binance API, Docker
+
+## Additional Information
+
+- Participate in hackathons.
 
