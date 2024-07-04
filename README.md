@@ -55,7 +55,7 @@ As a developer from Russia, I specialize in backend. I love solving problems, an
 _Description:_ Creating a market platform where users can browse products, add items to their shopping cart, and make purchases.  
 _Technologies:_ DRF, PostgreSQL, Docker, React
 
-**3. Cryptocurrency Trading Bot**  
+**2. Cryptocurrency Trading Bot**  
 _Description:_ Developed a bot that automates cryptocurrency trading using predefined strategies. The bot analyzes market data and executes trades based on the algorithms.  
 _Technologies:_ Python, Binance API, Docker
 
