@@ -9,18 +9,14 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi)
 ![Sanic](https://img.shields.io/badge/-Sanic-000?&logo=python)
-![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
 ![Kafka](https://img.shields.io/badge/-Kafka-000?&logo=apache-kafka)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=redis)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
-![gRPC](https://img.shields.io/badge/-gRPC-000?&logo=grpc)
-![NetBox](https://img.shields.io/badge/-NetBox-000)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=prometheus)
 ![pytest](https://img.shields.io/badge/-pytest-000?&logo=pytest)
 ![Poetry](https://img.shields.io/badge/-Poetry-000?&logo=python)
-![GitLab CI](https://img.shields.io/badge/-GitLab_CI-000?&logo=gitlab)
 
 ---
 
