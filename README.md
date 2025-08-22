@@ -1,52 +1,55 @@
-<!--
-**AlexYrlv/AlexYrlv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 Yurlov Aleksandr — Python-разработчик
 
-Here are some ideas to get you started:
+Я backend-разработчик из России. Занимаюсь разработкой микросервисов, интеграцией с внешними системами, автоматизацией процессов и инфраструктурным аудитом. Всегда открыт к новым задачам и технологиям.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> 
+---
 
-# Hello, World! I'm Yurlov Aleksandr 🌍
-
-As a developer from Russia, I specialize in backend. I love solving problems, and learning new things every day. 
-
-## Technologies & Tools
+## ⚙️ Стек и технологии
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-![Django](https://img.shields.io/badge/-Django-000?&logo=django)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi)
+![Sanic](https://img.shields.io/badge/-Sanic-000?&logo=python)
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
+![Kafka](https://img.shields.io/badge/-Kafka-000?&logo=apache-kafka)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=redis)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
+![gRPC](https://img.shields.io/badge/-gRPC-000?&logo=grpc)
+![NetBox](https://img.shields.io/badge/-NetBox-000)
+![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=prometheus)
+![pytest](https://img.shields.io/badge/-pytest-000?&logo=pytest)
+![Poetry](https://img.shields.io/badge/-Poetry-000?&logo=python)
+![GitLab CI](https://img.shields.io/badge/-GitLab_CI-000?&logo=gitlab)
 
+---
 
-## Get in Touch
+## 🧠 Проекты и опыт
+
+- 🔐 **OAuth**: разработал авторизацию через ВКонтакте и Яндекс для личного кабинета  
+- 🤖 **Telegram Mini App**: передача показаний ЖКХ в интерактивном интерфейсе  
+- 🔌 **Интеграционный шлюз CRM**: приём webhook-событий, снижение нагрузки на поддержку  
+- 💳 **Сервис оплаты ЖКУ**: эквайринг, СБП, токены, автоподстановка начислений  
+- 📡 **Микросервисная платформа аудита**: FastAPI + Kafka + gRPC + Prometheus + NetBox  
+  Автоматическое сравнение конфигураций сетевых устройств с эталоном и генерация отчётов  
+- ✅ Внедрил тесты (80–85%), OpenAPI-документацию, линтинг, типизацию и CI-проверки  
+
+---
+
+## 📫 Связь
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?&logo=github)](https://github.com/AlexYrlv)
 [![Telegram](https://img.shields.io/badge/Telegram-000?&logo=telegram)](https://t.me/JohnSliver)
 
+---
 
+## 🎓 Образование
 
-## Work Experience
+- **ИТМО** — Нейротехнологии и программирование (2022–2026)
 
-- Developed web applications using Django and Flask for business market.
-- Created RESTful APIs.
-- Worked with databases: designing, creating queries.
-- Developed algorithms for cryptocurrency trading.
+---
 
-## Education
+## 💡 Дополнительно
 
-- ITMO University: Neurotechnology and Programming (2022 - 2026)
-
-
-## Additional Information
-
-- Participate in hackathons.
-
+- Участвую в хакатонах  
+- Люблю исследовать системы, разрабатывать архитектуры и автоматизировать рутину
