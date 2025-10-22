@@ -38,7 +38,6 @@
 -->
 ## 📫 Связь
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?&logo=github)](https://github.com/AlexYrlv)
 [![Telegram](https://img.shields.io/badge/Telegram-000?&logo=telegram)](https://t.me/JohnSliver)
 
 ---
