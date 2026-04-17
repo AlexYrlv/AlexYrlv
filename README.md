@@ -6,10 +6,16 @@
   <img src="profile-dark.svg" alt="Alexander Yurlov" width="100%">
 </picture>
 
-<sub>
-
-[github.com/AlexYrlv/gpthub](https://github.com/AlexYrlv/gpthub) &nbsp;·&nbsp; [t.me/JohnSliver](https://t.me/JohnSliver) &nbsp;·&nbsp; [sasha.yur@mail.ru](mailto:sasha.yur@mail.ru)
-
-</sub>
+<p>
+  <a href="https://github.com/AlexYrlv/gpthub">
+    <img src="https://img.shields.io/badge/$_open_gpthub-bd93f9?style=for-the-badge&logo=github&logoColor=282a36&labelColor=282a36" />
+  </a>
+  <a href="https://t.me/JohnSliver">
+    <img src="https://img.shields.io/badge/$_open_telegram-8be9fd?style=for-the-badge&logo=telegram&logoColor=282a36&labelColor=282a36" />
+  </a>
+  <a href="mailto:sasha.yur@mail.ru">
+    <img src="https://img.shields.io/badge/$_open_email-f1fa8c?style=for-the-badge&logo=gmail&logoColor=282a36&labelColor=282a36" />
+  </a>
+</p>
 
 </div>
