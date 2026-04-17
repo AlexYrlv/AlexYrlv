@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="920" height="368" viewBox="0 0 920 368" font-family="JetBrains Mono, SF Mono, Menlo, Consolas, monospace" font-size="14">
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="676" viewBox="0 0 920 676" font-family="JetBrains Mono, SF Mono, Menlo, Consolas, monospace" font-size="14">
 <defs>
-  <clipPath id="round"><rect width="920" height="368" rx="10"/></clipPath>
+  <clipPath id="round"><rect width="920" height="676" rx="10"/></clipPath>
 </defs>
 <g clip-path="url(#round)">
-  <rect width="920" height="368" fill="#282a36"/>
+  <rect width="920" height="676" fill="#282a36"/>
   <rect width="920" height="36" fill="#44475a"/>
   <circle cx="18" cy="18" r="6" fill="#ff5f57"/>
   <circle cx="38" cy="18" r="6" fill="#febc2e"/>
@@ -12,27 +12,61 @@
 </g>
 <text y="76"><tspan x="28" fill="#50fa7b">alex</tspan><tspan x="62" fill="#6272a4">@</tspan><tspan x="70" fill="#ff79c6">spb</tspan><tspan x="95" fill="#6272a4">:</tspan><tspan x="103" fill="#8be9fd">~</tspan><tspan x="111" fill="#f8f8f2">$ </tspan></text>
 <text x="128" y="76" fill="#f1fa8c" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.20s" dur="0.01s" fill="freeze"/>w</text>
-<text x="136" y="76" fill="#f1fa8c" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.29s" dur="0.01s" fill="freeze"/>h</text>
-<text x="145" y="76" fill="#f1fa8c" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.38s" dur="0.01s" fill="freeze"/>o</text>
-<text x="153" y="76" fill="#f1fa8c" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.47s" dur="0.01s" fill="freeze"/>a</text>
-<text x="162" y="76" fill="#f1fa8c" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.56s" dur="0.01s" fill="freeze"/>m</text>
-<text x="171" y="76" fill="#f1fa8c" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.65s" dur="0.01s" fill="freeze"/>i</text>
-<rect x="179" y="62" width="8" height="16" fill="#f1fa8c"><animate attributeName="opacity" values="1;1;0" keyTimes="0;0.869;1" dur="0.84s" fill="freeze"/></rect>
-<text x="28" y="120" fill="#bd93f9" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.04s" dur="0.25s" fill="freeze"/>   ____        </text>
-<text x="28" y="142" fill="#bd93f9" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.09s" dur="0.25s" fill="freeze"/>  / __ \__  __ </text>
-<text x="28" y="164" fill="#ff79c6" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.14s" dur="0.25s" fill="freeze"/> / /_/ / / / / </text>
-<text x="28" y="186" fill="#ff79c6" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.19s" dur="0.25s" fill="freeze"/>/ ____/ /_/ /  </text>
-<text x="28" y="208" fill="#8be9fd" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.24s" dur="0.25s" fill="freeze"/>/_/    \__, /  </text>
-<text x="28" y="230" fill="#8be9fd" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.29s" dur="0.25s" fill="freeze"/>      /____/   </text>
-<text x="193" y="120" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.19s" dur="0.25s" fill="freeze"/><tspan fill="#8be9fd" font-weight="600">Name   </tspan><tspan fill="#f8f8f2">Alexander Yurlov</tspan></text>
-<text x="193" y="142" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.24s" dur="0.25s" fill="freeze"/><tspan fill="#8be9fd" font-weight="600">Role   </tspan><tspan fill="#f8f8f2">Backend Python</tspan></text>
-<text x="193" y="164" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.29s" dur="0.25s" fill="freeze"/><tspan fill="#8be9fd" font-weight="600">Base   </tspan><tspan fill="#f8f8f2">Saint-Petersburg</tspan></text>
-<text x="193" y="186" fill="#44475a" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.34s" dur="0.25s" fill="freeze"/>───────────────────────────────────</text>
-<text x="193" y="208" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.39s" dur="0.25s" fill="freeze"/><tspan fill="#8be9fd" font-weight="600">Stack  </tspan><tspan fill="#f8f8f2">Python · FastAPI · async</tspan></text>
-<text x="193" y="230" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.44s" dur="0.25s" fill="freeze"/><tspan fill="#8be9fd" font-weight="600">Data   </tspan><tspan fill="#f8f8f2">MongoDB · Redis · MinIO</tspan></text>
-<text x="193" y="252" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.49s" dur="0.25s" fill="freeze"/><tspan fill="#8be9fd" font-weight="600">LLM    </tspan><tspan fill="#f8f8f2">OpenAI-compatible · function calling</tspan></text>
-<text x="193" y="274" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.54s" dur="0.25s" fill="freeze"/><tspan fill="#8be9fd" font-weight="600">Focus  </tspan><tspan fill="#f8f8f2">LLM gateways · agent orchestration</tspan></text>
-<text x="193" y="296" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.59s" dur="0.25s" fill="freeze"/><tspan fill="#8be9fd" font-weight="600">Build  </tspan><tspan fill="#f8f8f2">github.com/AlexYrlv/gpthub</tspan></text>
-<text y="322" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.09s" dur="0.3s" fill="freeze"/><tspan x="28" fill="#50fa7b">alex</tspan><tspan x="62" fill="#6272a4">@</tspan><tspan x="70" fill="#ff79c6">spb</tspan><tspan x="95" fill="#6272a4">:</tspan><tspan x="103" fill="#8be9fd">~</tspan><tspan x="111" fill="#f8f8f2">$ </tspan></text>
-<rect x="128" y="308" width="8" height="16" fill="#f1fa8c" opacity="0"><animate attributeName="opacity" values="0;1;1;0;0;1;1;0" keyTimes="0;0.001;0.4;0.5;0.6;0.61;0.95;1" begin="2.09s" dur="1.6s" repeatCount="indefinite"/></rect>
+<text x="136" y="76" fill="#f1fa8c" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.28s" dur="0.01s" fill="freeze"/>h</text>
+<text x="145" y="76" fill="#f1fa8c" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.36s" dur="0.01s" fill="freeze"/>o</text>
+<text x="153" y="76" fill="#f1fa8c" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.44s" dur="0.01s" fill="freeze"/>a</text>
+<text x="162" y="76" fill="#f1fa8c" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.52s" dur="0.01s" fill="freeze"/>m</text>
+<text x="171" y="76" fill="#f1fa8c" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.60s" dur="0.01s" fill="freeze"/>i</text>
+<text x="28" y="120" fill="#bd93f9" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.88s" dur="0.2s" fill="freeze"/>   ____        </text>
+<text x="28" y="142" fill="#bd93f9" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.92s" dur="0.2s" fill="freeze"/>  / __ \__  __ </text>
+<text x="28" y="164" fill="#ff79c6" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.96s" dur="0.2s" fill="freeze"/> / /_/ / / / / </text>
+<text x="28" y="186" fill="#ff79c6" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.00s" dur="0.2s" fill="freeze"/>/ ____/ /_/ /  </text>
+<text x="28" y="208" fill="#8be9fd" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.04s" dur="0.2s" fill="freeze"/>/_/    \__, /  </text>
+<text x="28" y="230" fill="#8be9fd" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.08s" dur="0.2s" fill="freeze"/>      /____/   </text>
+<text x="193" y="120" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.00s" dur="0.2s" fill="freeze"/><tspan fill="#8be9fd" font-weight="600">Name   </tspan><tspan fill="#f8f8f2">Alexander Yurlov</tspan></text>
+<text x="193" y="142" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.04s" dur="0.2s" fill="freeze"/><tspan fill="#8be9fd" font-weight="600">Role   </tspan><tspan fill="#f8f8f2">Backend Python</tspan></text>
+<text x="193" y="164" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.08s" dur="0.2s" fill="freeze"/><tspan fill="#8be9fd" font-weight="600">Base   </tspan><tspan fill="#f8f8f2">Saint-Petersburg</tspan></text>
+<text x="193" y="186" fill="#44475a" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.12s" dur="0.2s" fill="freeze"/>───────────────────────────────────</text>
+<text x="193" y="208" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.16s" dur="0.2s" fill="freeze"/><tspan fill="#8be9fd" font-weight="600">Stack  </tspan><tspan fill="#f8f8f2">Python · FastAPI · async</tspan></text>
+<text x="193" y="230" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.20s" dur="0.2s" fill="freeze"/><tspan fill="#8be9fd" font-weight="600">Data   </tspan><tspan fill="#f8f8f2">MongoDB · Redis · MinIO</tspan></text>
+<text x="193" y="252" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.24s" dur="0.2s" fill="freeze"/><tspan fill="#8be9fd" font-weight="600">LLM    </tspan><tspan fill="#f8f8f2">OpenAI-compatible · function calling</tspan></text>
+<text x="193" y="274" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.28s" dur="0.2s" fill="freeze"/><tspan fill="#8be9fd" font-weight="600">Focus  </tspan><tspan fill="#f8f8f2">LLM gateways · agent orchestration</tspan></text>
+<text y="328" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.69s" dur="0.2s" fill="freeze"/><tspan x="28" fill="#50fa7b">alex</tspan><tspan x="62" fill="#6272a4">@</tspan><tspan x="70" fill="#ff79c6">spb</tspan><tspan x="95" fill="#6272a4">:</tspan><tspan x="103" fill="#8be9fd">~</tspan><tspan x="111" fill="#f8f8f2">$ </tspan></text>
+<text x="128" y="328" fill="#f1fa8c" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.99s" dur="0.01s" fill="freeze"/>l</text>
+<text x="136" y="328" fill="#f1fa8c" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.04s" dur="0.01s" fill="freeze"/>s</text>
+<text x="145" y="328" fill="#f1fa8c" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.09s" dur="0.01s" fill="freeze"/> </text>
+<text x="153" y="328" fill="#f1fa8c" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.14s" dur="0.01s" fill="freeze"/>p</text>
+<text x="162" y="328" fill="#f1fa8c" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.19s" dur="0.01s" fill="freeze"/>r</text>
+<text x="171" y="328" fill="#f1fa8c" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.24s" dur="0.01s" fill="freeze"/>o</text>
+<text x="179" y="328" fill="#f1fa8c" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.29s" dur="0.01s" fill="freeze"/>j</text>
+<text x="188" y="328" fill="#f1fa8c" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.34s" dur="0.01s" fill="freeze"/>e</text>
+<text x="196" y="328" fill="#f1fa8c" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.39s" dur="0.01s" fill="freeze"/>c</text>
+<text x="205" y="328" fill="#f1fa8c" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.44s" dur="0.01s" fill="freeze"/>t</text>
+<text x="214" y="328" fill="#f1fa8c" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.49s" dur="0.01s" fill="freeze"/>s</text>
+<text x="222" y="328" fill="#f1fa8c" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.54s" dur="0.01s" fill="freeze"/>/</text>
+<text x="48" y="366" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.79s" dur="0.25s" fill="freeze"/><tspan fill="#bd93f9" font-weight="600">gpthub/       </tspan><tspan fill="#f8f8f2">Unified AI workspace — OpenAI-compatible backend over any LLM</tspan></text>
+<text x="168" y="388" fill="#f8f8f2" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.89s" dur="0.25s" fill="freeze"/>provider. Chat, voice, vision, RAG, agentic tools, memory.</text>
+<text x="168" y="410" fill="#6272a4" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.99s" dur="0.25s" fill="freeze"/>python · 2026 · MIT · github.com/AlexYrlv/gpthub</text>
+<text y="486" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="3.29s" dur="0.2s" fill="freeze"/><tspan x="28" fill="#50fa7b">alex</tspan><tspan x="62" fill="#6272a4">@</tspan><tspan x="70" fill="#ff79c6">spb</tspan><tspan x="95" fill="#6272a4">:</tspan><tspan x="103" fill="#8be9fd">~</tspan><tspan x="111" fill="#f8f8f2">$ </tspan></text>
+<text x="128" y="486" fill="#f1fa8c" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="3.59s" dur="0.01s" fill="freeze"/>c</text>
+<text x="136" y="486" fill="#f1fa8c" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="3.64s" dur="0.01s" fill="freeze"/>a</text>
+<text x="145" y="486" fill="#f1fa8c" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="3.69s" dur="0.01s" fill="freeze"/>t</text>
+<text x="153" y="486" fill="#f1fa8c" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="3.74s" dur="0.01s" fill="freeze"/> </text>
+<text x="162" y="486" fill="#f1fa8c" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="3.79s" dur="0.01s" fill="freeze"/>c</text>
+<text x="171" y="486" fill="#f1fa8c" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="3.84s" dur="0.01s" fill="freeze"/>o</text>
+<text x="179" y="486" fill="#f1fa8c" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="3.89s" dur="0.01s" fill="freeze"/>n</text>
+<text x="188" y="486" fill="#f1fa8c" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="3.94s" dur="0.01s" fill="freeze"/>t</text>
+<text x="196" y="486" fill="#f1fa8c" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="3.99s" dur="0.01s" fill="freeze"/>a</text>
+<text x="205" y="486" fill="#f1fa8c" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="4.04s" dur="0.01s" fill="freeze"/>c</text>
+<text x="214" y="486" fill="#f1fa8c" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="4.09s" dur="0.01s" fill="freeze"/>t</text>
+<text x="222" y="486" fill="#f1fa8c" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="4.14s" dur="0.01s" fill="freeze"/>s</text>
+<text x="231" y="486" fill="#f1fa8c" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="4.19s" dur="0.01s" fill="freeze"/>.</text>
+<text x="239" y="486" fill="#f1fa8c" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="4.24s" dur="0.01s" fill="freeze"/>t</text>
+<text x="248" y="486" fill="#f1fa8c" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="4.29s" dur="0.01s" fill="freeze"/>x</text>
+<text x="257" y="486" fill="#f1fa8c" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="4.34s" dur="0.01s" fill="freeze"/>t</text>
+<text x="48" y="524" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="4.59s" dur="0.25s" fill="freeze"/><tspan fill="#8be9fd" font-weight="600">github  </tspan><tspan fill="#6272a4">   </tspan><tspan fill="#8be9fd">github.com/AlexYrlv</tspan></text>
+<text x="48" y="546" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="4.69s" dur="0.25s" fill="freeze"/><tspan fill="#8be9fd" font-weight="600">telegram</tspan><tspan fill="#6272a4">   </tspan><tspan fill="#8be9fd">t.me/JohnSliver</tspan></text>
+<text x="48" y="568" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="4.79s" dur="0.25s" fill="freeze"/><tspan fill="#8be9fd" font-weight="600">email   </tspan><tspan fill="#6272a4">   </tspan><tspan fill="#8be9fd">sasha.yur@mail.ru</tspan></text>
+<text y="644" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="5.19s" dur="0.3s" fill="freeze"/><tspan x="28" fill="#50fa7b">alex</tspan><tspan x="62" fill="#6272a4">@</tspan><tspan x="70" fill="#ff79c6">spb</tspan><tspan x="95" fill="#6272a4">:</tspan><tspan x="103" fill="#8be9fd">~</tspan><tspan x="111" fill="#f8f8f2">$ </tspan></text>
+<rect x="128" y="630" width="8" height="16" fill="#f1fa8c" opacity="0"><animate attributeName="opacity" values="0;1;1;0;0;1;1;0" keyTimes="0;0.001;0.4;0.5;0.6;0.61;0.95;1" begin="5.19s" dur="1.4s" repeatCount="indefinite"/></rect>
 </svg>
