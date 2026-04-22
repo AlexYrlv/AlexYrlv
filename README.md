@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-dark.svg?v=4">
-  <source media="(prefers-color-scheme: light)" srcset="profile-light.svg?v=4">
-  <img src="profile-dark.svg?v=4" alt="Alexander Yurlov" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="profile-dark.svg?v=5">
+  <source media="(prefers-color-scheme: light)" srcset="profile-light.svg?v=5">
+  <img src="profile-dark.svg?v=5" alt="Alexander Yurlov" width="100%">
 </picture>
 
 <p>
